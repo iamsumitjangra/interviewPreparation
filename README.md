@@ -1,2 +1,1 @@
-# interviewPrep
-Curated contect for Interview Preparation
+Curated content for Interview Preparation

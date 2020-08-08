@@ -15,7 +15,7 @@ Hope it helps you to prepare for your upcoming interviews!
 - Design Netflix => search, video serving, authentication, encryption, dns lookup,caching strategy,serving multi quality video etc
 - Design a Latency Management System
 - Design a Library Management System
-- Design a Notification service
+- Design a Notification service - a system which is capable of sending a notification to the customer, whenever the price drops on real-time / Design a notification system which send email and SMS to buyer and seller for an e-commerce marketplace such as Amazon
 - Design ESPN/Cricinfo/Cricbuzz
 - Design Uber
 - Design Whatsapp
@@ -97,4 +97,3 @@ Design it completely and scalable Ranking System
 - Design a realtime service which tells your friends who is online
 - Design Google Maps
 - Design Grammarly
-

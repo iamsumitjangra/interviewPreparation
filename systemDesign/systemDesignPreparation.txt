@@ -1,0 +1,63 @@
+ADCD following
+--------------
+
+Ask right questions (What features, how much to scale)
+Don't use buzzwords
+Clear and organized thinking
+Drive discussions (80-20 rule)
+
+Major criterias
+---------------
+
+Features
+Define APIs
+Availability
+Latency performance
+Scalability
+Durability
+Class designs
+Security and privacy
+Cost effectiveness
+
+Major topics
+------------
+
+Vertical and horizontal scaling
+CAP theorem (consistency vs availability) - https://en.wikipedia.org/wiki/CAP_theorem
+ACID (relational) - https://www.youtube.com/watch?v=LSB4eceRsw8
+BASE(non-relational) - https://www.youtube.com/watch?v=LSB4eceRsw8
+Partitioning and sharding data (Consistent hashing) - https://www.youtube.com/watch?v=LSB4eceRsw8
+Optimistic vs pessimistic locking
+Strong vs eventual consistency
+Relational vs NoSQL database
+Types of NoSQL
+	key value
+	whilte column
+	document based
+	graph based
+Caching
+Data center/racks/hosts
+CPU/memory/hard drive/network/bandwidth
+Random vs sequential read write
+
+HTTP vs HTTP2
+Websockets - https://www.youtube.com/watch?v=i5OVcTdt_OU
+REST api
+TCP/IP model
+ipv4 vs ipv6
+TCP vs UDP - https://www.youtube.com/watch?v=Vdc8TCESIg8
+DNS lookups - https://www.youtube.com/watch?v=mpQZVYPuDGU
+SSL vs TLS - https://www.youtube.com/watch?v=hExRDVZHhig
+Publickey infra ad certificate authority
+Symmetric vs asymettric encryption
+Load balancers - L4 to L7
+CDNs and edge
+Bloom filters and count-min sketch
+Paxos - consensus over distributed hosts
+	leader election
+Design patterns (factory methods and singletons) and object oriented design (inheritance and abstraction)
+Virtual machine and containers
+Publisher - subscriber over queue
+Map reduce (distributed and parallel processing of big data)
+Multithreading, concurrency, locks, synchronisation, CAS
+

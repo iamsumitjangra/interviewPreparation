@@ -109,6 +109,11 @@ It generally depends what you are and you will be working on. Also what your lev
 
 ## <a name='lldquestions'> Low Level Design Questions </a>
 * [Cab/Taxi Booking like Uber, Ola](https://www.youtube.com/watch?v=Yn7C0x5ozx4&t=967s)
+* [Cache](https://www.youtube.com/watch?v=B7iCXl_KSoM)
+* [Parking Lot](https://www.youtube.com/watch?v=7IX84K9g23U&t=1s)
+* [Movie Ticket Booking](https://www.youtube.com/watch?v=Xny0IdvJ-1M&list=PL564gOx0bCLpAL7yMJqOuK3_hBuLkyRhn)
+* [Chess Game](https://www.youtube.com/watch?v=RVHNcng0oF0&list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW&index=4)
+* [Airline reservations system](https://www.youtube.com/watch?v=54cXxQyeCMQ)
 
 ## <a name='architecture'>Architectures :</a>
 

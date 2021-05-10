@@ -15,6 +15,7 @@ b) Learn more about how large-scale systems work and thought process of designin
 - [ ] [How to answer in interviews](#howtoans)
 - [ ] [Steps how I approach the system design questions in interviews](#myapproach)
 - [ ] [Common Design questions](#designques)
+- [ ] [Low Level Design - Question](#lldquestions)
 - [ ] [architecture](#architecture)
 - [ ] [company engineering blog links](#blog)
 - [ ] [Low on time ?](#tldr)
@@ -105,6 +106,9 @@ It generally depends what you are and you will be working on. Also what your lev
  (For web applications, it is common to have a large number of servers running the same application, with a load balancer in front to distribute the incoming requests. In this scenario, we want to check and alarm in case an exception is thrown in any of the servers. We want a system that checks for the appearance of specific words, "Exception", "Disk Full" etc. in the logs of any of the servers. How would you design this system?)
  * [Design Google Maps].(https://www.codekarle.com/system-design/Google_Maps-system-design.html)
  * [Design a Video Conferencing System like Zoom/WebEx].(https://www.codekarle.com/system-design/Zoom-system-design.html)
+
+## <a name='lldquestions'> Low Level Design Questions </a>
+* [Cab/Taxi Booking like Uber, Ola](https://www.youtube.com/watch?v=Yn7C0x5ozx4&t=967s)
 
 ## <a name='architecture'>Architectures :</a>
 

@@ -115,6 +115,9 @@ It generally depends what you are and you will be working on. Also what your lev
 * [Chess Game](https://www.youtube.com/watch?v=RVHNcng0oF0&list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW&index=4)
 * [Airline reservations system](https://www.youtube.com/watch?v=54cXxQyeCMQ)
 
+## <a name='lldquestions'> Design Patterns </a>
+* [The Catalog of Design Patterns] (https://refactoring.guru/design-patterns/catalog)
+
 ## <a name='architecture'>Architectures :</a>
 
 Personally I looked into the following architectures:

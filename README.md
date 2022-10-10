@@ -116,7 +116,7 @@ It generally depends what you are and you will be working on. Also what your lev
 * [Airline reservations system](https://www.youtube.com/watch?v=54cXxQyeCMQ)
 
 ## <a name='lldquestions'> Design Patterns </a>
-* [The Catalog of Design Patterns] (https://refactoring.guru/design-patterns/catalog)
+* [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 
 ## <a name='architecture'>Architectures :</a>
 
